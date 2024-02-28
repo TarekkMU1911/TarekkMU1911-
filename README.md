@@ -4,3 +4,7 @@ Personal Info :
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>Beginner Machine Learning Engineer </em>
 
+- 👋 Hi, I’m @TarekkMU1911
+- 👀 I’m interested in machine , deep and reinforecment learning
+- 🌱 I’m currently learning AI and ML 
+
