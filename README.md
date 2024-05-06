@@ -5,6 +5,6 @@ Personal Info :
 <p><em>Junior Machine Learning Engineer </em>
 
 - 👋 I’m @TarekkMU1911
-- 👀 I’m interested in machine , deep and reinforecment learning
+- 👀 I’m interested in machine , deep learning
 - 🌱 I’m currently learning AI and ML 
 
