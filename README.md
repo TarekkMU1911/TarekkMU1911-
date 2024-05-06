@@ -7,7 +7,7 @@ Personal Info :
 - 👋 I’m @TarekkMU1911
 - 👀 I’m interested in machine , deep learning
 - 🌱 I’m currently learning AI and ML
-- 📫 I'm Student in FCAI-CU
+- 📫 I'm Second Level Student in FCAI-CU
 - ⚡ I'm in scolarship in data engineering with Microsoft and MCIT in Egypt
   
 
