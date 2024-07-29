@@ -6,7 +6,7 @@
 - 👋 I’m @TarekkMU1911
 - 👀 I’m interested in machine , deep learning
 - 🌱 I’m currently learning AI and ML
-- 📫 I'm Second Level Student in FCAI-CU
+- 📫 I'm moving to the 3rd Level in FCAI-CU
 - ⚡ I'm in scolarship in data engineering with Microsoft and MCIT in Egypt
 - 💞️ I’m looking to collaborate on ML and DL workshops and Projects
   
